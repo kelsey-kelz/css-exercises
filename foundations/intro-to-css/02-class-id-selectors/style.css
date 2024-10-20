@@ -1,0 +1,18 @@
+.alert {
+  background-color: rgba(255, 0, 0, 0.4);
+  font-family: verdana, deja vu, sans-serif;
+}
+
+#two {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.font-size {
+  font-size: 24px;
+}
+
+#four {
+  background-color: hsla(120, 100%, 50%, 0.4);
+  font-weight: bold;
+}
